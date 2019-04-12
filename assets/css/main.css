@@ -3546,7 +3546,7 @@ background-color: #002b80;
 html {overflow: hidden;}
 
 
- @media screen and (max-width: 540px) {
+ @media screen and (max-width: 975px) {
 	 
 	 html {overflow: scroll;}
 	 
